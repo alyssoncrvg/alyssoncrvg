@@ -43,12 +43,12 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação. Focado em criar
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api? username=alyssoncrvg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alyssoncrvg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alyssoncrvg&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp. com/?user=alyssoncrvg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alyssoncrvg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 📫 Como me encontrar
